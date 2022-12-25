@@ -1,0 +1,30 @@
+table {
+    border: none;
+}
+  
+tr.noBorder td {
+    border: none;
+}
+
+.content {
+    max-width: 350px;
+    margin: auto;
+}
+
+p {
+    font-size: 0.9em;
+}
+
+hr {
+    height: 1px;
+    border: none;
+    background-color: #D1D1D1;
+}
+
+.box {
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid #e7e7e7;
+    background-color: #e7e7e7;
+    border-radius: 15px;
+}
